@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TingShiuanLai
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Inteligence
 - 🌱 I’m currently learning things above
-- 💞️ I’m looking to collaborate on ... not sure
+- 💞️ I’m looking to for internship for summer 2025
 - 📫 How to reach me tingshiuan.mia@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: love dancing
